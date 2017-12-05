@@ -6,4 +6,5 @@
     <string name="bookDialogTitle">Book Dialog</string>
     <string name="author">Author</string>
     <string name="searchBook">Search book</string>
+    <string name="ok">OK</string>
 </resources>
